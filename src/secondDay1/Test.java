@@ -16,5 +16,9 @@ public class Test {
         //t1.display();
         Teacher t2 = new Teacher("Binoy ", 1001);
         //t2.display();
+
+        int num1 = 10;
+        int num2 =  12;
+        System.out.println(num1+num2);
     }
 }
